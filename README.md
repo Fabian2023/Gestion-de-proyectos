@@ -33,6 +33,7 @@
 El proyecto ha sido diseñado pensando en la adaptabilidad a diferentes dispositivos, desde móviles hasta pantallas de escritorio. Esto garantiza una experiencia de usuario consistente y eficiente sin importar el dispositivo que se utilice.
 
 ---
+---
 
 ### ⚙️ Instalación y Ejecución Local
 Sigue estos pasos para clonar y ejecutar el proyecto localmente:
@@ -41,7 +42,8 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
    ```bash
    git clone https://github.com/tu-usuario/gestion-de-proyectos.git
    cd gestion-de-proyectos
-2.**Instala las dependencias**
+   npm install && npm run dev
+
     npm install
 3.**Ejecuta el proyecto**
     npm run dev
