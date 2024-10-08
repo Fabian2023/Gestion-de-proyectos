@@ -43,12 +43,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
    git clone https://github.com/tu-usuario/gestion-de-proyectos.git
    cd gestion-de-proyectos
 
-2.**Instala las dependencias y ejecuta el proyecto 🚀**
+2.**Instala las dependencias && ejecuta el proyecto 🚀 **
  ```bash
-   npm install && npm run dev
-
-
-
-    
-
-
+   npm install
+   npm run dev
