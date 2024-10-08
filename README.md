@@ -40,7 +40,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/gestion-de-proyectos.git
+   git clone https://github.com/Fabian2023/Gestion-de-proyectos
    cd gestion-de-proyectos
 
 2.**Instala las dependencias && ejecuta el proyecto 🚀 **
